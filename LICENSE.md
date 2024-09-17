@@ -23,7 +23,7 @@ Check out the complete package to see all the available features and updates.
 
 Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-stack**.
 
-## Usefull links
+## Useful links
 
 **Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
 **Access the source code**: [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)<br />
