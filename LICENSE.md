@@ -1,9 +1,29 @@
-# Preview [php-stack](https://github.com/premierstacks/php-stack)
+# Preview [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)
 
-This repository provides a preview of the licensing terms for the premium **php-stack** package.<br />
+This repository provides a preview of the licensing terms for the premium **premierstacks/php-stack** package.<br />
 Before subscribing, review the contents here to fully understand the terms and ensure the package meets your needs.
 
-> **[👉 Full version here – Get access to the complete package by purchasing a license!](https://github.com/premierstacks/php-stack)**
+## Steps to Explore and Get Started
+
+### 1. **Explore the Offer**
+
+Dive into the features and benefits of the **premierstacks/php-stack** package by browsing through the provided files and documentation.
+
+### 2. **Buy a License**
+
+> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
+
+If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
+
+### 3. **Install the Package**
+
+> **[https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**
+
+Check out the complete package to see all the available features and updates.
+
+Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-stack**.
+
+## Usefull links
 
 **Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
 **Access the source code**: [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)<br />
@@ -11,6 +31,7 @@ Before subscribing, review the contents here to fully understand the terms and e
 **Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
 **Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
 
+---
 # Proprietary Software License
 
 **Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
