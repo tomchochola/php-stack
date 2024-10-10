@@ -1,195 +1,341 @@
-# Preview [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/php-stack** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/php-stack** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-stack**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
+
+**Original content starts here!**
+
+---
+
 # [PHP Stack](https://github.com/premierstacks/php-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Elevate PHP development with PHP Stack: a comprehensive suite offering innovative solutions for data handling, error management, and more. Designed for streamlined integration and enhanced efficiency.
+✨ _**Clone and Win!**_
 
-PHP Stack provides a versatile range of utilities aimed at optimizing PHP development. This toolset, crafted for practicality and innovation, addresses common to complex challenges in PHP projects, offering solutions for data encoding, error handling, and versatile I/O operations. With PHP Stack, integration is effortless, allowing you to enhance your development process with advanced functionalities from the start. The suite is a result of in-depth research and is continuously updated to ensure alignment with the latest PHP standards and practices, guaranteeing reliability and premier quality in your development endeavors.
+The PHP Stack is a versatile set of utility libraries and helper functions for PHP projects, designed to simplify common development tasks and provide robust support for building scalable and maintainable applications. It offers a cohesive set of tools that integrate seamlessly into any PHP project, helping developers work more efficiently.
 
-## 👌 Top Reasons to Opt for PHP Stack
+## What is PHP Stack?
 
-PHP Stack isn't just a collection of utilities; it's a pivotal tool designed to enhance your PHP development, ensuring efficiency, reliability, and innovation at every step.
+The PHP Stack is a specialized set of utility libraries and helper functions designed to optimize the development experience for PHP applications. It provides tools for common tasks like data manipulation, HTTP requests, encoding, and structured data handling, all while maintaining a clean and consistent API.
 
-### ⏱️ Setup in Just 5 Minutes
+This stack is organized into various modules to cover different development needs. Whether you’re working with JSON APIs, managing file resources, or implementing custom data structures, the PHP Stack offers pre-built solutions that integrate seamlessly into any PHP project. With dedicated components for both backend logic and general-purpose utilities, it ensures your projects remain well-organized and easy to maintain.
 
-Dive into your PHP projects with PHP Stack, crafted for seamless integration. This comprehensive suite equips you with advanced functionalities right from the start, allowing you to elevate your PHP development with ease and precision.
+Unlike traditional libraries that focus on a narrow set of features, the PHP Stack is built to provide a holistic development experience. It reduces dependency conflicts, enforces best practices, and allows for quick setup, so you can spend less time configuring tools and more time building features.
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+## What is Tomchochola
 
-PHP Stack is the result of exhaustive research and a deep understanding of PHP's complexities. By incorporating PHP Stack into your projects, you access a treasure trove of optimized solutions and methodologies, ensuring your development is based on refined knowledge and best practices.
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
-### 🎚️ Minimal Setup, Maximum Utility
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-Achieve exceptional functionality with minimal configuration effort. PHP Stack simplifies the incorporation of complex PHP Stackities, making high-quality development accessible and manageable, while providing a wide array of tools for diverse development needs.
+## What is Premierstacks
 
-### 📘 Zero Expertise Required
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
-Regardless of your experience level, PHP Stack is designed to be intuitive and user-friendly. This ensures that developers of all skill levels can leverage its full spectrum of utilities, elevating the quality and efficiency of PHP development across the board.
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-### 🔄 Continuously Updated
+## Why Premierstacks?
 
-Stay at the cutting edge of PHP development with PHP Stack. Regular updates ensure the suite remains aligned with the latest PHP features and best practices, keeping your projects modern, efficient, and compliant with current standards.
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-### ⚔️ Battle-Tested Reliability
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-Depend on a utility suite that has been rigorously tested across a broad range of PHP projects. PHP Stack delivers consistent, reliable results, enhancing the robustness and maintainability of your PHP code, irrespective of project scale or complexity.
+### Why You Should Choose Premierstacks
 
-### 🏆 Premier Quality Guarantee
+**🚀 Unmatched Quality**
 
-Opting for PHP Stack signifies a commitment to excellence in PHP development. Beyond basic utility functions, PHP Stack offers a holistic solution that enriches your projects with unparalleled efficiency and performance, setting new benchmarks in PHP development.
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-## 🛡️ License & Usage
+**⚙️ No Setup Hassles**
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+**📦 Reuse Across Projects**
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+**🔒 Exclusive Resources**
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-### Acquiring a License
+**🛠️ Always Up-to-Date**
 
-To use this software, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+Receive continuous updates and new features, keeping your projects current.
 
-## 🖍️ Highlights
+**💪 Expert Creators**
 
-- **Advanced Encoding and Decoding**: PHP Stack offers sophisticated utilities for handling various data formats, including CSV, JSON, XML, and more, ensuring efficient and accurate data processing.
-- **Streamlined Error and Exception Handling**: Enhance the reliability of your PHP applications with PHP Stack's robust error and exception handling utilities, designed for clarity and ease of debugging.
-- **Versatile Input/Output Operations**: PHP Stack provides comprehensive tools for file handling, data streaming, and input/output operations, maximizing flexibility and efficiency in data management.
-- **Extensive Collection of Utilities**: From array manipulation and string operations to security enhancements and validation tools, PHP Stack covers a wide spectrum of functionalities, catering to diverse development needs.
-- **Optimized for Performance**: Each utility within PHP Stack is optimized for maximum performance, ensuring your PHP applications run smoothly and efficiently.
+Developed by experienced professionals dedicated to quality and excellence.
 
-## 🎬 Get Started
+## License
 
-### 1️⃣ License Acquisition
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-### 2️⃣ Package Installation
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-Add the following to your `composer.json`:
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-```json
-"repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/premierstacks/php-stack.git"
-    }
-]
-```
+## Module exports
 
-Then, execute:
-
-```shell
-composer require premierstacks/php-stack:@dev
-```
-
-### 3️⃣ Utilize PHP Stack
-
-Leverage the extensive utilities provided by PHP Stack in your PHP projects, enhancing functionality and efficiency with ease.
+Here are the available module exports:
 
 ```php
-<?php
-
-declare(strict_types=1);
-
-require_once __DIR__ . '/vendor/autoload.php';
-
-use Premierstacks\PhpStack\IO\ResourceObject;
-use Premierstacks\PhpStack\Mixed\Assert;
-use Premierstacks\PhpStack\Mixed\Check;
-use Premierstacks\PhpStack\Mixed\Is;
-use Premierstacks\PhpStack\Types\Resources;
-
-// Runtime check for mixed types
-$listOfInt = Check::listOf($_GET['ints'], static fn (mixed $a): int => Check::int($a)); // [1, 2, 3]
-$listOfArrayOfString = Check::listOf($_POST['arrays'], static fn (mixed $a): array => Check::arrayOf($a, static fn (mixed $b): string => Check::string($b))); // [['key' => 'value']]
-
-// Assertion check for mixed types
-$listOfInts = Assert::listOf($_GET['ints'], static fn (mixed $a): int => Assert::int($a)); // [1, 2, 3]
-$listOfArrayOfString = Assert::listOf($_POST['arrays'], static fn (mixed $a): array => Assert::arrayOf($a, static fn (mixed $b): string => Assert::string($b))); // [['key' => 'value']]
-
-// Is check for mixed types
-$isListOfInt = Is::listOf($_GET['ints'], static fn (mixed $a): int => Check::int($a)); // [1, 2, 3]
-$isListOfArrayOfString = Is::listOf($_POST['arrays'], static fn (mixed $a): array => Check::arrayOf($a, static fn (mixed $b): string => Check::string($b))); // [['key' => 'value']]
-
-// Resources object wrapper
-$resource = new ResourceObject(Resources::temp());
-$resource->fputcsv(['a', 'b', 'c']);
-$resource->rewind();
-$resource->fpassthru(); // prints a,b,c
+use Premierstacks/PhpStack/Debug/Debugf;
+use Premierstacks/PhpStack/Debug/Errorf;
+use Premierstacks/PhpStack/Encoding/Csv;
+use Premierstacks/PhpStack/Encoding/DataUri;
+use Premierstacks/PhpStack/Encoding/Hash;
+use Premierstacks/PhpStack/Encoding/Json;
+use Premierstacks/PhpStack/Encoding/Signature;
+use Premierstacks/PhpStack/Encoding/Svg;
+use Premierstacks/PhpStack/Enums/Undefined;
+use Premierstacks/PhpStack/Enums/Unknown;
+use Premierstacks/PhpStack/Fake/Svg;
+use Premierstacks/PhpStack/Http/Client;
+use Premierstacks/PhpStack/Http/Message;
+use Premierstacks/PhpStack/Http/NetworkException;
+use Premierstacks/PhpStack/Http/Request;
+use Premierstacks/PhpStack/Http/Response;
+use Premierstacks/PhpStack/Http/Stream;
+use Premierstacks/PhpStack/Http/Uri;
+use Premierstacks/PhpStack/IO/ResourceObject;
+use Premierstacks/PhpStack/JsonApi/JsonApi;
+use Premierstacks/PhpStack/JsonApi/JsonApiAttributes;
+use Premierstacks/PhpStack/JsonApi/JsonApiDocument;
+use Premierstacks/PhpStack/JsonApi/JsonApiDocumentInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiError;
+use Premierstacks/PhpStack/JsonApi/JsonApiErrorInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiErrors;
+use Premierstacks/PhpStack/JsonApi/JsonApiInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiLink;
+use Premierstacks/PhpStack/JsonApi/JsonApiLinkInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiLinks;
+use Premierstacks/PhpStack/JsonApi/JsonApiMeta;
+use Premierstacks/PhpStack/JsonApi/JsonApiRelationship;
+use Premierstacks/PhpStack/JsonApi/JsonApiRelationshipInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiRelationships;
+use Premierstacks/PhpStack/JsonApi/JsonApiResource;
+use Premierstacks/PhpStack/JsonApi/JsonApiResourceIdentifier;
+use Premierstacks/PhpStack/JsonApi/JsonApiResourceIdentifierInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiResourceInterface;
+use Premierstacks/PhpStack/JsonApi/JsonApiSerializer;
+use Premierstacks/PhpStack/JsonApi/JsonApiSource;
+use Premierstacks/PhpStack/JsonApi/JsonApiSourceInterface;
+use Premierstacks/PhpStack/JsonApi/NullInterface;
+use Premierstacks/PhpStack/JsonApi/NullJsonApiLink;
+use Premierstacks/PhpStack/JsonApi/NullJsonApiResource;
+use Premierstacks/PhpStack/JsonApi/NullJsonApiResourceIdentifier;
+use Premierstacks/PhpStack/JsonApi/ThrowableDebugJsonApiMeta;
+use Premierstacks/PhpStack/JsonApi/ThrowableJsonApiError;
+use Premierstacks/PhpStack/JsonApi/ThrowableJsonApiErrors;
+use Premierstacks/PhpStack/Mixed/Assert;
+use Premierstacks/PhpStack/Mixed/Check;
+use Premierstacks/PhpStack/Mixed/Filter;
+use Premierstacks/PhpStack/Mixed/Is;
+use Premierstacks/PhpStack/Random/Random;
+use Premierstacks/PhpStack/Structures/Struct;
+use Premierstacks/PhpStack/Structures/Structs;
+use Premierstacks/PhpStack/Testing/PHPUnit;
+use Premierstacks/PhpStack/Testing/TestIntEnum;
+use Premierstacks/PhpStack/Testing/TestInterface;
+use Premierstacks/PhpStack/Testing/TestStringEnum;
+use Premierstacks/PhpStack/Testing/TestTrait;
+use Premierstacks/PhpStack/Types/Arrays;
+use Premierstacks/PhpStack/Types/Files;
+use Premierstacks/PhpStack/Types/Resources;
+use Premierstacks/PhpStack/Types/Strings;
 ```
 
-### 4️⃣ Attribution
+## Samples
 
-Please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+Explore the samples in the [/samples](/samples) directory to see how to use the package in various scenarios.
 
-## The Author: Tomáš Chochola
+**[/samples/json_api_errors.php](/samples/json_api_errors.php)**<br />
+**[/samples/json_api_resources.php](/samples/json_api_resources.php)**<br />
+**[/samples/io.php](/samples/io.php)**<br />
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+## Getting Started
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+**1. Review the documentation and license**
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Ensure this package fits your needs and that you agree with the terms.
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+**2. Obtain a license**
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-## 💰 Empower Innovation: Support and Subscribe
+**3. Install the package**
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+Setup composer repostory:
 
-## 🤝 Join Forces with Tomáš Chochola
+```bash
+composer config repositories.premierstacks/php-stack git https://github.com/premierstacks/php-stack.git
+```
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+Install using composer:
+
+```bash
+composer require --dev premierstacks/php-stack:@dev
+```
+
+**4. See the samples**
+
+Explore the samples in the [/samples](/samples) directory to see how to use the package in various scenarios.
+
+**5. Use the package**
+
+Start using the package in your project.
+
+## About the Creator
+
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
+
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
+
+### Specializations
+
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
+
+## Contact
+
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
+
+## Tree
+
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── composer.json
+├── eslint.config.js
+├── package.json
+├── phpstan.neon
+├── phpunit.xml
+├── prettier.config.js
+├── samples
+│   ├── io.php
+│   ├── json_api_errors.php
+│   └── json_api_resources.php
+├── src
+│   ├── Debug
+│   │   ├── Debugf.php
+│   │   └── Errorf.php
+│   ├── Encoding
+│   │   ├── Csv.php
+│   │   ├── DataUri.php
+│   │   ├── Hash.php
+│   │   ├── Json.php
+│   │   ├── Signature.php
+│   │   └── Svg.php
+│   ├── Enums
+│   │   ├── Undefined.php
+│   │   └── Unknown.php
+│   ├── Fake
+│   │   └── Svg.php
+│   ├── Http
+│   │   ├── Client.php
+│   │   ├── Message.php
+│   │   ├── NetworkException.php
+│   │   ├── Request.php
+│   │   ├── Response.php
+│   │   ├── Stream.php
+│   │   └── Uri.php
+│   ├── IO
+│   │   └── ResourceObject.php
+│   ├── JsonApi
+│   │   ├── JsonApi.php
+│   │   ├── JsonApiAttributes.php
+│   │   ├── JsonApiDocument.php
+│   │   ├── JsonApiDocumentInterface.php
+│   │   ├── JsonApiError.php
+│   │   ├── JsonApiErrorInterface.php
+│   │   ├── JsonApiErrors.php
+│   │   ├── JsonApiInterface.php
+│   │   ├── JsonApiLink.php
+│   │   ├── JsonApiLinkInterface.php
+│   │   ├── JsonApiLinks.php
+│   │   ├── JsonApiMeta.php
+│   │   ├── JsonApiRelationship.php
+│   │   ├── JsonApiRelationshipInterface.php
+│   │   ├── JsonApiRelationships.php
+│   │   ├── JsonApiResource.php
+│   │   ├── JsonApiResourceIdentifier.php
+│   │   ├── JsonApiResourceIdentifierInterface.php
+│   │   ├── JsonApiResourceInterface.php
+│   │   ├── JsonApiSerializer.php
+│   │   ├── JsonApiSource.php
+│   │   ├── JsonApiSourceInterface.php
+│   │   ├── NullInterface.php
+│   │   ├── NullJsonApiLink.php
+│   │   ├── NullJsonApiResource.php
+│   │   ├── NullJsonApiResourceIdentifier.php
+│   │   ├── ThrowableDebugJsonApiMeta.php
+│   │   ├── ThrowableJsonApiError.php
+│   │   └── ThrowableJsonApiErrors.php
+│   ├── Mixed
+│   │   ├── Assert.php
+│   │   ├── Check.php
+│   │   ├── Filter.php
+│   │   └── Is.php
+│   ├── Random
+│   │   └── Random.php
+│   ├── Structures
+│   │   ├── Struct.php
+│   │   └── Structs.php
+│   ├── Testing
+│   │   ├── PHPUnit.php
+│   │   ├── TestIntEnum.php
+│   │   ├── TestInterface.php
+│   │   ├── TestStringEnum.php
+│   │   └── TestTrait.php
+│   └── Types
+│       ├── Arrays.php
+│       ├── Files.php
+│       ├── Resources.php
+│       └── Strings.php
+└── tests
+    └── Unit
+        ├── Http
+        │   ├── ClientTest.php
+        │   ├── MessageTest.php
+        │   ├── NetworkExceptionTest.php
+        │   ├── RequestTest.php
+        │   ├── ResponseTest.php
+        │   ├── StreamTest.php
+        │   └── UriTest.php
+        ├── JsonApi
+        │   └── JsonApiSerializerTest.php
+        ├── Mixed
+        │   ├── AssertTest.php
+        │   └── CheckTest.php
+        ├── Structures
+        │   └── StructTest.php
+        └── TestCase.php
+
+20 directories, 89 files
+```
