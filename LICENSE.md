@@ -1,6 +1,6 @@
 # Premierstacks Public Preview
 
-**This file has been extracted from: [https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**
+**This file has been extracted from: [https://github.com/premierstacks//home/tom/src/github/premierstacks/php-stack/](https://github.com/premierstacks//home/tom/src/github/premierstacks/php-stack/)**
 
 Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
